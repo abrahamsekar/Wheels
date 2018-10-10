@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Mattson/packages
+/Mattson/Mattson.UI/bin
+/Mattson/Mattson.UI/obj
+/Mattson/Mattson/Mattson.iOS/obj
+/Mattson/Mattson/Mattson.Android/bin
+/Mattson/Mattson/Mattson.Android/obj
+/Mattson/Mattson/Mattson/bin
+/Mattson/Mattson/Mattson/obj
+/Mattson/.vs
